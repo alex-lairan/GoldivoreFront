@@ -1,0 +1,17 @@
+{
+  "name": "front",
+  "application": {
+    "head": "assets/head.html",
+    "title": "Goldovore"
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ],
+  "external": {
+    "javascripts": [],
+    "stylesheets": ["assets/main.css"]
+  }
+}
